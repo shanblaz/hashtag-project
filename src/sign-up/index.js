@@ -12,7 +12,7 @@ export default class SignUp extends Component {
                 </div>
             </div>
             <div className="col-12 col-md-7 d-flex flex-column h-100 p-0">
-                <h3 className="my-3 text-right heading px-2">WATCHNEXT</h3>
+                <h3 className="my-3 px-2 justify-content-end d-flex"><h3 style={{color: '#e04a63'}}>W</h3>ATCHNEXT</h3>
                 <div style={{width: "50%"}}className="align-self-center form_contents p-4">
                     <div className="text-center">
                     {/* <div className="row justify-content-center "> </div> */}
