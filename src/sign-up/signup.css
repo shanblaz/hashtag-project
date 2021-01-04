@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+.form_part{
+    background-color:#ebebeb;
+}
+.form_contents{
+    background-color: white;
+    box-shadow: 1px 1px 7px 6px #b6b6b6;
+    border-radius: 9px;
+}
+.form-group input{
+    border: 0;
+    border-bottom: 1px solid #ddd;
+}
+#root{
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
