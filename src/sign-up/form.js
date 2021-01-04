@@ -29,10 +29,10 @@ export default class Form extends Component {
                         <input className="form-check-input" type="checkbox"/>
                         <label class="form-check-label">Accept Terms of Service, Privacy Policy</label>
                     </div>                                      
-                        <div class="form-group">
-                            <button style={{borderRadius: "20px", backgroundColor: "#e04a63"}} type="submit" class="btn btn-primary btn-block"> SIGN UP  </button>
-                        </div>   
-                        <small class="text-muted">Already a member?</small><span> Sign In</span>                                          
+                    <div class="form-group">
+                        <button style={{borderRadius: "20px", backgroundColor: "#e04a63"}} type="submit" class="btn btn-primary btn-block"> SIGN UP  </button>
+                    </div>   
+                    <small class="text-muted">Already a member?</small><span> Sign In</span>                                          
                 </form>
             </div>
         )
